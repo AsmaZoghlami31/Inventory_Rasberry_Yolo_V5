@@ -1,0 +1,4 @@
+train: C:/Users/zoghl/Projects/YOLO/yolov5/dataset/images/train
+val: C:/Users/zoghl/Projects/YOLO/yolov5/dataset/images/val
+nc: 2
+names: ['mouse', 'pen']
